@@ -4,6 +4,9 @@ A brick breaker game with a physical motion-controlled paddle, haptic feedback, 
 ## Report
 For our report, we typeset a LaTeX document detailing every aspect of the project, including: implementation details, schematics and diagrams, future goals, and challenges faced. The [report PDF is publicly available](https://github.com/BananaBoysUW/report/releases/download/v1.0.0/report.pdf) to read.
 
+## Video
+For our presentation, we produced a [video linked here](https://youtu.be/CgEKLb8C9HY).
+
 ## Repository Breakdown
 There are 2 main repositories in this project:
 - the [repository for game graphics and map creation](https://github.com/BananaBoysUW/brickbreaker-reimagined), and
